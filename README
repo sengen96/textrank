@@ -13,12 +13,17 @@ Features
 * Keyword extraction
 
 
-Demo
-----
+Keyword demo
+------------
 
-    python keyword_extract_demo.py --file "./file/path/here.txt"\
+    python keyword_extract_demo.py --file "./file/path/here.txt"
+    
+
+Summary demo
+------------
+
     python summary_extract_demo.py --file "./file/path/here.txt"
-
+    
 
 Examples
 --------
