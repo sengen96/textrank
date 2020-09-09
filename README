@@ -12,6 +12,14 @@ Features
 * Text summarization
 * Keyword extraction
 
+
+Demo
+----
+
+python keyword_extract_demo.py --file "./file/path/here.txt"
+python summary_extract_demo.py --file "./file/path/here.txt"
+
+
 Examples
 --------
 
