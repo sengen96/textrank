@@ -16,8 +16,8 @@ Features
 Demo
 ----
 
-python keyword_extract_demo.py --file "./file/path/here.txt"
-python summary_extract_demo.py --file "./file/path/here.txt"
+    python keyword_extract_demo.py --file "./file/path/here.txt"
+    python summary_extract_demo.py --file "./file/path/here.txt"
 
 
 Examples
